@@ -1,8 +1,8 @@
 # human_tracking_3D
 human detection and tracking in 3D space based on Yolov3 and deepsort
 
-![image](https://github.com/EcustBoy/human_tracking_3D/main/docs/bbox.gif )
-![image](https://github.com/EcustBoy/human_tracking_3D/main/docs/pointcloud_bbox.gif )
+![image](https://github.com/EcustBoy/human_tracking_3D/tree/main/docs/bbox.gif )
+![image](https://github.com/EcustBoy/human_tracking_3D/tree/main/docs/pointcloud_bbox.gif )
 
 ## requirements
 * ros-kinetic
